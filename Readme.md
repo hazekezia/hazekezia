@@ -1,6 +1,6 @@
 <img src="./img/01.gif" width="200" align="right" />
 
-My name is Jonathan Sitohang, currently live in Indonesia. Programming language is **Python**
+My name is Jonathan Sitohang, currently live in Indonesia. Programming language is **Python**.
 
 ***Work on Progress***
 
@@ -16,6 +16,9 @@ My name is Jonathan Sitohang, currently live in Indonesia. Programming language 
   Paramiko for monitoring nodes based on Python.
 
 ##
-[***LinkedIn***](https://www.linkedin.com/in/jonathan-sitohang/) | [***TryHackMe***](https://tryhackme.com/p/hazekezia) | Discord: hzK#5173 
+[***LinkedIn***](https://www.linkedin.com/in/jonathan-sitohang/) | [***TryHackMe***](https://tryhackme.com/p/hazekezia) | *Discord: hzK#5173*
 
-<sub>I wish you sleep well tonight.</sub>
+<p align="center">
+    <img src="./img/02.gif" width="400"/></br>
+    <sub>I wish you sleep well tonight.</sub>
+</p>
