@@ -1,4 +1,4 @@
-<img src="./img/baal.gif" width="100" align="right" />
+<img src="./img/raiden-shogun-ei.gif" width="200" align="right" />
 
 My name is Jonathan Sitohang, currently live in Indonesia. Programming language is **Python**
 
@@ -15,7 +15,4 @@ My name is Jonathan Sitohang, currently live in Indonesia. Programming language 
 - [***hazekezia/Paramiko***](https://github.com/hazekezia/Paramiko)<br/>
   Paramiko for monitoring nodes based on Python.
 
-<p align="center">
-    <img src="./img/raiden_dance.gif">
-</p>
 <sub>I wish you sleep well tonight.</sub>
