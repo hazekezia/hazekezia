@@ -7,5 +7,8 @@ My name is Jonathan Sitohang, currently live in Indonesia.
 - [***hazekezia/hazebot***](https://github.com/hazekezia/hazebot)<br/>
   Discord bot for Genshin Impact users.
 
-<img src="./img/raiden_dance.gif" align="center" />
+<p align="center">
+    <img src="./img/raiden_dance.gif">
+</p>
+
 <sub>I wish you sleep well tonight.</sub>
