@@ -1,8 +1,8 @@
-<img src="./img/raiden-shogun-ei.gif" width="200" align="right" />
+<img src="./img/01.gif" width="200" align="right" />
 
 My name is Jonathan Sitohang, currently live in Indonesia. Programming language is **Python**
 
-***Project on working***
+***Work on Progress***
 
 - [***hazekezia/hazebot***](https://github.com/hazekezia/hazebot)<br/>
   Discord bot for Genshin Impact users.
@@ -14,5 +14,8 @@ My name is Jonathan Sitohang, currently live in Indonesia. Programming language 
   RESTful API Flask Simple CRUD (Handle 2 tables).
 - [***hazekezia/Paramiko***](https://github.com/hazekezia/Paramiko)<br/>
   Paramiko for monitoring nodes based on Python.
+
+##
+[***LinkedIn***](https://www.linkedin.com/in/jonathan-sitohang/) | [***TryHackMe***](https://tryhackme.com/p/hazekezia) | Discord: hzK#5173 
 
 <sub>I wish you sleep well tonight.</sub>
