@@ -1,6 +1,6 @@
-My name is Jonathan Sitohang, currently live in Indonesia.
+<img src="./img/baal.gif" width="100" align="right" />
 
-- Programming language is **Python**
+My name is Jonathan Sitohang, currently live in Indonesia. Programming language is **Python**
 
 ***Project on working***
 
@@ -14,12 +14,6 @@ My name is Jonathan Sitohang, currently live in Indonesia.
   RESTful API Flask Simple CRUD (Handle 2 tables).
 - [***hazekezia/Paramiko***](https://github.com/hazekezia/Paramiko)<br/>
   Paramiko for monitoring nodes based on Python.
-
-***Game Programming using C#***
-- [***hazekezia/2D-Pong***](https://github.com/hazekezia/2D-Pong)<br/>
-  2D Pong
-- [***hazekezia/3D-Pong***](https://github.com/hazekezia/3D-Pong)<br/>
-  3D Pong
 
 <p align="center">
     <img src="./img/raiden_dance.gif">
