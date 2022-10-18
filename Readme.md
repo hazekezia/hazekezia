@@ -16,7 +16,8 @@ My name is Jonathan Sitohang, currently live in Indonesia. Programming language 
   Paramiko for monitoring nodes based on Python.
 
 ##
-[***LinkedIn***](https://www.linkedin.com/in/jonathan-sitohang/) | [***TryHackMe***](https://tryhackme.com/p/hazekezia) | *Discord: hzK#5173*
+| [***CodersRank***](https://profile.codersrank.io/user/hazekezia/) | [***HackerRank***](https://www.hackerrank.com/hazekezia) | [***TryHackMe***](https://tryhackme.com/p/hazekezia) | [***LinkedIn***](https://www.linkedin.com/in/jonathan-sitohang/) |</p>
+*Discord: hzK#5173*
 
 <p align="center">
     <img src="./img/02.gif" width="400"/></br>
