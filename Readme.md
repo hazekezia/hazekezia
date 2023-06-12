@@ -1,6 +1,6 @@
 My name is Jonathan Sitohang, currently live in Indonesia. Programming language is **Python**. I like to play games.
 
-***Work on Progress***
+***Discontiqued***
 
 - [***hazekezia/hazebot***](https://github.com/hazekezia/hazebot)<br/>
   Discord bot for Genshin Impact users.
