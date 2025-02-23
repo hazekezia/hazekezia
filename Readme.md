@@ -9,7 +9,7 @@ I'm a developer from Indonesia who codes primarily in **Python**. I have a passi
 
 ### 🔧 Other Projects
 - [**MySQL Connector**](https://github.com/hazekezia/MySQL_Connector) - A Python-based MySQL connector management tool.
-- [**RESTful API**](https://github.com/hazekezia/RESTfulAPI) - A simple Flask-based RESTful API handling CRUD operations on two tables.
+- [**XKCD_Discord_Randomizer**](https://github.com/hazekezia/xkcd_discord_randomizer) - Automated bot for posting random XKCD comics to a Discord channel.
 - [**Paramiko Monitoring**](https://github.com/hazekezia/Paramiko) - A Python-based tool for monitoring nodes using Paramiko.
 
 ### 🎮 Games
