@@ -1,20 +1,20 @@
-👋 Hey, I'm Jonathan Sitohang from Indonesia. I code in **Python** and love gaming. 🎮
+# 👋 Hey, I'm Jonathan Sitohang!
 
-***Project retired***
+I'm a developer from Indonesia who codes primarily in **Python**. I have a passion for coding, automation, and gaming. 🎮
 
-- [***hazekezia/hazebot***](https://github.com/hazekezia/hazebot)<br/>
-  Discord bot for Genshin Impact users.
+## 🚀 Projects
 
-***Others***
-- [***hazekezia/MySQL_Connector***](https://github.com/hazekezia/MySQL_Connector)<br/>
-  Manage MySQL Connector using Python.
-- [***hazekezia/RESTfulAPI***](https://github.com/hazekezia/RESTfulAPI)<br/>
-  RESTful API Flask Simple CRUD (Handle 2 tables).
-- [***hazekezia/Paramiko***](https://github.com/hazekezia/Paramiko)<br/>
-  Paramiko for monitoring nodes based on Python.
+### 🏆 Retired Projects
+- [**hazebot**](https://github.com/hazekezia/hazebot) - A Discord bot designed for Genshin Impact users.
 
-***Games***
-[***Pong (2D)***](https://github.com/hazekezia/2D-Pong) | [***Pong (3D)***](https://github.com/hazekezia/3D-Pong)
+### 🔧 Other Projects
+- [**MySQL Connector**](https://github.com/hazekezia/MySQL_Connector) - A Python-based MySQL connector management tool.
+- [**RESTful API**](https://github.com/hazekezia/RESTfulAPI) - A simple Flask-based RESTful API handling CRUD operations on two tables.
+- [**Paramiko Monitoring**](https://github.com/hazekezia/Paramiko) - A Python-based tool for monitoring nodes using Paramiko.
 
-##
-[***LinkedIn***](https://www.linkedin.com/in/jonathan-sitohang/) | *Discord: hzK#5173*
+### 🎮 Games
+- [**Pong (2D)**](https://github.com/hazekezia/2D-Pong) | [**Pong (3D)**](https://github.com/hazekezia/3D-Pong)
+
+## 📫 Connect with Me
+- [**LinkedIn**](https://www.linkedin.com/in/jonathan-sitohang/)
+- **Discord:** hzK#5173
