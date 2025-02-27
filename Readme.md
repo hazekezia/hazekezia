@@ -3,11 +3,8 @@
 I'm a developer from Indonesia who codes primarily in **Python**. I have a passion for coding, automation, and gaming. 🎮
 
 ## 🚀 Projects
-
-### 🏆 Retired Projects
-- [**hazebot**](https://github.com/hazekezia/hazebot) - A Discord bot designed for Genshin Impact users.
-
-### 🔧 Other Projects
+### 🔧 My Projects
+- [**hazebot**](https://github.com/hazekezia/hazebot) (retired) - A Discord bot designed for Genshin Impact users.
 - [**MySQL Connector**](https://github.com/hazekezia/MySQL_Connector) - A Python-based MySQL connector management tool.
 - [**XKCD_Discord_Randomizer**](https://github.com/hazekezia/xkcd_discord_randomizer) - Automated bot for posting random XKCD comics to a Discord channel.
 - [**Paramiko Monitoring**](https://github.com/hazekezia/Paramiko) - A Python-based tool for monitoring nodes using Paramiko.
